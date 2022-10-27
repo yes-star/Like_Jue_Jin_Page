@@ -20,9 +20,10 @@ yarn start
 
 首页
 
-![./src/assets/img/%E9%A6%96%E9%A1%B5.png]()
+![image](./src/assets/img/%E9%A6%96%E9%A1%B5.png)
 
 个人管理
+
 ![image](https://github.com/yes-star/Like_Jue_Jin_Page/blob/master/src/assets/img/%E4%B8%AA%E4%BA%BA%E7%AE%A1%E7%90%86.png)
 
 文章解析
