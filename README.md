@@ -20,16 +20,13 @@ yarn start
 
 首页
 
-![](C:\Users\123\AppData\Roaming\marktext\images\2022-10-27-13-29-06-T58_KO7Q[Q1[924OSC%N_85.png)
+![](./src/assets/img/%E9%A6%96%E9%A1%B5.png)
 
-![](C:\Users\123\AppData\Roaming\marktext\images\2022-10-27-13-29-26-image.png)
-
-![](C:\Users\123\AppData\Roaming\marktext\images\2022-10-27-13-30-23-image.png)
+个人管理
+![](./src/assets/img/%E4%B8%AA%E4%BA%BA%E7%AE%A1%E7%90%86.png)
 
 文章解析
-
-![](C:\Users\123\AppData\Roaming\marktext\images\2022-10-27-13-34-50-image.png)
+![](./src/assets/img/%E6%96%87%E7%AB%A0.png)
 
 写文章
-
-![](C:\Users\123\AppData\Roaming\marktext\images\2022-10-27-13-35-16-image.png)
+![](./src/assets/img/%E5%86%99%E6%96%87%E7%AB%A0.png)
