@@ -1,0 +1,147 @@
+.card1 {
+    height: 96px;
+    padding: 16px;
+    margin-bottom: 16px;
+    background-color: #fff;
+}
+
+.qiandao {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 8px;
+}
+
+.date {
+    display: flex;
+    align-items: center;
+}
+
+.title {
+    color: #1d2129;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 15px;
+}
+
+.secondLine {
+    margin-bottom: 2px;
+    margin-left: 36px;
+    color: #4e5969;
+    font-size: 14px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+}
+
+.card2 {
+    height: 74px;
+    display: flex;
+    align-items: center;
+    padding: 12px;
+    background-color: #fff;
+    cursor: pointer;
+    margin-bottom: 16px;
+}
+
+.qrcode img {
+    margin-right: 16px;
+    width: 50px;
+    height: 50px;
+}
+
+.headline {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    color: #1d2129;
+}
+
+.desc {
+    margin-top: 6px;
+    font-size: 12px;
+    line-height: 20px;
+    color: #86909c;
+}
+
+.card3 {
+    height: 304px;
+    background-color: #fff;
+    margin-bottom: 16px;
+}
+
+.userBlockHeader {
+    padding: 12px 16px;
+    border-bottom: 1px solid hsla(0, 0%, 59.2%, .1);
+    font-size: 14px;
+    color: #333;
+}
+
+.list {
+}
+
+.item {
+    height: 70px;
+    padding: 12px 16px;
+    display: flex;
+    cursor: pointer;
+}
+
+.item:hover {
+    background-color: hsla(0, 0%, 84.7%, .1);
+}
+
+.avatar {
+    width: 46px;
+    height: 46px;
+    margin-right: 6px;
+}
+
+.userName {
+    max-width: 128px;
+    display: inline-block;
+    vertical-align: top;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 14px;
+    font-weight: 400;
+    color: #333;
+    margin-bottom: 3px;
+}
+
+.position {
+    color: #909090;
+    font-size: 12px;
+    margin-bottom: 3px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.more {
+    color: #007fff;
+    padding: 12px 0;
+    text-align: center;
+    border-top: 1px solid hsla(0, 0%, 59.2%, .1);
+    cursor: pointer;
+}
+
+.card4 {
+    height: 180px;
+    background-color: #fff;
+    margin-bottom: 16px;
+}
+
+.title2 {
+    font-size: 14px;
+    line-height: 36px;
+    color: #333;
+}
+
+.siteInfo {
+    height: 234px;
+    background-color: #fff;
+}
+
+

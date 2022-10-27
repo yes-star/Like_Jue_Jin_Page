@@ -1,0 +1,75 @@
+.pinEditor {
+    min-height: 153px;
+    background-color: #fff;
+    border-radius: 2px;
+    box-shadow: 0 1px 2px 0 rgb(0 0 0 / 5%);
+    margin-bottom: 8px;
+}
+
+.editorBody {
+    padding: 15px 20px 0;
+    background: #fff;
+    position: relative;
+    border-radius: 2px;
+}
+
+.content {
+    position: relative;
+    border-radius: 2px;
+    border: 1px solid hsla(0, 0%, 59.2%, .2);
+    background-color: rgba(226, 230, 235, .2);
+    min-height: 85px;
+}
+
+.editorContent {
+    padding: 8px 10px;
+    outline: none;
+    border-radius: 2px;
+    color: #17181a;
+    min-height: 55px;
+    white-space: pre-wrap;
+    line-height: 20px;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+/* 给div设置placeholder */
+.editorContent:empty::before {
+    color: lightgrey;
+    content: attr(placeholder);
+}
+
+.count {
+    position: absolute;
+    right: 12px;
+    bottom: 10px;
+    font-size: 13px;
+    user-select: none;
+    pointer-events: none;
+    color: #a1a9b3;
+}
+
+.bottom {
+    padding: 10px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: -2px;
+    height: 52px;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+}
+
+.itemText {
+    padding: 2px;
+    font-size: 13px;
+    color: #027fff;
+    cursor: pointer;
+}
+
+.mr18 {
+    margin-right: 18px;
+}

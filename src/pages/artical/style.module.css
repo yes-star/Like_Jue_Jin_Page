@@ -1,0 +1,66 @@
+.artical {
+    width: 960px;
+    margin: auto;
+    margin-top: 76px;
+    position: relative;
+}
+
+.articalLeftWrapper {
+    width: 36px;
+    height: 363px;
+    /*background-color: #fff;*/
+    position: fixed;
+    top: 192px;
+    margin-left: -84px;
+}
+
+.articalMiddleWrapper {
+    width: 700px;
+    min-height: 800px;
+    background-color: #fff;
+    padding: 24px;
+    border-radius: 2px;
+}
+
+.author {
+    height: 43px;
+    margin-bottom: 24px;
+    display: flex;
+    align-items: center;
+}
+
+.authorInfo {
+    width: 540px;
+    cursor: pointer;
+}
+
+.authorName {
+    height: 22px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #333;
+}
+
+.metaBox {
+    font-size: 13px;
+    color: #909090;
+    margin-top: 3px;
+}
+
+.articalImg {
+    width: 100%;
+    margin-bottom: 24px;
+}
+
+.articalRightWrapper {
+    width: 240px;
+    min-height: 600px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.mycode {
+    width: 100%;
+    margin-bottom: 16px;
+}

@@ -1,0 +1,41 @@
+.home {
+    width: 960px;
+    min-height: 800px;
+    margin: auto;
+    margin-top: 118px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.homeLeftWrapper {
+    width: 700px;
+    background-color: #fff;
+}
+
+.homeRightWrapper {
+    width: 240px;
+    /*background-color: #fff;*/
+}
+
+.headClassify {
+    display: flex;
+    align-items: center;
+    padding: 16px 12px;
+    padding-left: 25px;
+    font-size: 14px;
+    border-bottom: 1px solid hsla(0, 0%, 59.2%, .1);
+    cursor: pointer;
+    color: #909090;
+}
+
+.headClassify p{
+    padding: 0 5px;
+}
+
+.headClassify p:hover{
+    color: #1e80ff;
+}
+
+.headClassify p:first-child {
+    color: #1e80ff;
+}

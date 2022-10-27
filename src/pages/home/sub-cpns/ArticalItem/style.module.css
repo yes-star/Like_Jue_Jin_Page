@@ -1,0 +1,140 @@
+.articalItem {
+    padding: 12px 20px 0;
+    cursor: pointer;
+}
+
+.articalItem:hover {
+    background: #fafafa;
+}
+
+.headInfo {
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+}
+
+.userName {
+    color: #4e5969;
+    white-space: nowrap;
+    line-height: 22px;
+    word-break: break-all;
+    cursor: pointer;
+}
+
+.userName:hover, .classfly:hover {
+    color: #1e80ff;
+}
+
+.popover {
+    width: 267px;
+    max-height: 160px;
+}
+
+.user {
+    display: flex;
+    align-items: center;
+}
+
+.nikeName {
+    font-size: 16px;
+    color: #333;
+    font-weight: 500;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+}
+
+.subName {
+    font-size: 14px;
+    color: #8f969c;
+    margin-top: 5px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+}
+
+.gzInfo {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    margin-top: 10px;
+}
+
+.time, .classfly {
+    color: #86909c;
+    cursor: pointer;
+}
+
+.contentWrapper {
+    margin-top: 10px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid #e5e6eb;
+    display: flex;
+    justify-content: space-between;
+}
+
+.contantMain {
+
+}
+
+.articalTitle {
+    margin-bottom: 8px;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #1d2129;
+    width: 100%;
+    display: -webkit-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+}
+
+.abstract {
+    margin-bottom: 10px;
+    color: #86909c;
+    font-size: 13px;
+    line-height: 22px;
+    display: -webkit-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+}
+
+.articalImg {
+    flex: 0 0 auto;
+    width: 120px;
+    height: 80px;
+    margin-left: 24px;
+    background-color: #fff;
+    border-radius: 2px;
+}
+
+.articalData {
+    display: flex;
+    align-items: center;
+}
+
+.data {
+    margin-right: 20px;
+    font-size: 13px;
+    line-height: 20px;
+    color: #4e5969;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+}
+
+.data:hover {
+    color: #1e80ff;
+}
+
+.data span {
+    margin-left: 4px;
+}
+

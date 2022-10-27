@@ -1,0 +1,27 @@
+.form {
+    display: flex;
+    align-items: center;
+    background-color: #f4f5f5;
+}
+
+.input {
+    width: 120px;
+    height: 32px;
+    background-color: transparent;
+    padding: 7px 0px 7px 12px;
+    color: #666;
+    border-radius: 3px;
+    font-size: 14px;
+    font-family: "Microsoft soft";
+    transition: width .3s;
+}
+
+.input[type="search"]::-webkit-search-cancel-button {
+    display: none;
+    autocomplete: off;
+}
+
+.form img {
+    padding: 0 10px;
+    cursor: pointer;
+}

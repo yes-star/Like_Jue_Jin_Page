@@ -1,0 +1,62 @@
+.authorCard {
+    background-color: #fff;
+    box-shadow: 0 1px 2px 0 rgb(0 0 0 / 5%);
+    margin-bottom: 18px;
+    border-radius: 2px;
+}
+
+header {
+    padding: 12px 16px;
+    font-size: 14px;
+    color: #333;
+    border-bottom: 1px solid hsla(0, 0%, 58.8%, .1);
+}
+
+.authorInfo {
+    display: flex;
+    align-items: center;
+    padding: 16px;
+    cursor: pointer;
+}
+
+.author {
+    flex: 1 1 auto;
+    min-width: 0;
+}
+
+.authorName {
+    font-size: 16px;
+    font-weight: 600;
+    color: #000;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: pre-wrap;
+}
+
+.metaBox {
+    margin-top: 10px;
+    font-size: 15px;
+    color: #72777b;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.data {
+    display: flex;
+    padding: 0 16px;
+    margin-bottom: 10px;
+}
+
+.bg {
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    line-height: 25px;
+    border-radius: 50%;
+    background-color: #E1EFFF;
+    margin-right: 12px;
+    font-size: 15px;
+    color: #000;
+}

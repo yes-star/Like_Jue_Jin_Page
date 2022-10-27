@@ -1,0 +1,54 @@
+.leftMenu {
+    background-color: #fff;
+    max-width: 112px;
+    border-radius: 2px;
+    background-color: #fff;
+    position: fixed;
+    top: 80px;
+    width: 112px;
+    height: 472px;
+    transition: all .2s linear;
+    padding: 16px 12px;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+}
+
+.list li {
+    max-width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    height: 31px;
+    line-height: 31px;
+    text-align: center;
+    font-size: 14px;
+    padding: 0 6px;
+    border-radius: 3px;
+    transition: background-color .2s, color .2s;
+    color: #909090;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.list li:first-child {
+    margin-top: 0px;
+}
+
+.list li:hover {
+    background-color: hsla(0, 0%, 94.9%, .6);
+    color: #007fff;
+}
+
+.list .active {
+    background-color: #007fff;
+    color: #fff;
+}
+
+.list .active:hover {
+    background-color: #007fff;
+    color: #fff;
+}

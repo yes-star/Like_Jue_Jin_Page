@@ -1,0 +1,18 @@
+.news {
+    width: 960px;
+    min-height: 800px;
+    margin: auto;
+    margin-top: 118px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.newsLeftWrapper {
+    width: 700px;
+    background-color: #fff;
+}
+
+.newsRightWrapper {
+    width: 240px;
+    background-color: #fff;
+}

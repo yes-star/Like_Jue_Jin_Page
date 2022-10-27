@@ -1,0 +1,29 @@
+.card2 {
+    height: 74px;
+    display: flex;
+    align-items: center;
+    padding: 12px;
+    background-color: #fff;
+    cursor: pointer;
+    margin-bottom: 16px;
+}
+
+.qrcode img {
+    margin-right: 16px;
+    width: 50px;
+    height: 50px;
+}
+
+.headline {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    color: #1d2129;
+}
+
+.desc {
+    margin-top: 6px;
+    font-size: 12px;
+    line-height: 20px;
+    color: #86909c;
+}

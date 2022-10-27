@@ -1,0 +1,25 @@
+.pins {
+    width: 960px;
+    margin: auto;
+    margin-top: 76px;
+    display: flex;
+}
+
+.pinsLeftWrapper {
+    width: 112px;
+    height: 400px;
+    margin-right: 15px;
+}
+
+.pinsMiddleWrapper {
+    width: 570px;
+    height: 800px;
+    /*background-color: #fff;*/
+    margin-right: 15px;
+}
+
+.pinsRightWrapper {
+    width: 248px;
+    height: 600px;
+    background-color: #fff;
+}

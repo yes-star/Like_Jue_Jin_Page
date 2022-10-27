@@ -1,0 +1,9 @@
+.events {
+    width: 960px;
+    min-height: 800px;
+    margin: auto;
+    margin-top: 118px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+}
