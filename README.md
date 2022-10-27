@@ -2,7 +2,7 @@
 
 ### 项目介绍
 
-项目技术栈：React.js + react-router + react-redux + redux-thunk + antd + axios + mock.js +  nanoid+ bytemd
+项目技术栈：React.js + react-router + react-redux + redux-thunk + antd + axios + mock.js 
 
 ### 安装依赖
 
