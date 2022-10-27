@@ -20,7 +20,7 @@ yarn start
 
 首页
 
-![](./src/assets/img/%E9%A6%96%E9%A1%B5.png)
+![./src/assets/img/%E9%A6%96%E9%A1%B5.png]()
 
 个人管理
 ![](./src/assets/img/%E4%B8%AA%E4%BA%BA%E7%AE%A1%E7%90%86.png)
