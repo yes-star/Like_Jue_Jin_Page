@@ -20,7 +20,7 @@ yarn start
 
 首页
 
-![image](https://github.com/yes-star/Like_Jue_Jin_Page/blob/master/src/assets/img/%E9%A6%96%E9%A1%B5.png)
+![image](.)
 
 个人管理
 
