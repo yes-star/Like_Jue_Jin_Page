@@ -23,10 +23,10 @@ yarn start
 ![./src/assets/img/%E9%A6%96%E9%A1%B5.png]()
 
 个人管理
-![](./src/assets/img/%E4%B8%AA%E4%BA%BA%E7%AE%A1%E7%90%86.png)
+![image](./src/assets/img/%E4%B8%AA%E4%BA%BA%E7%AE%A1%E7%90%86.png)
 
 文章解析
-![](./src/assets/img/%E6%96%87%E7%AB%A0.png)
+![image](./src/assets/img/%E6%96%87%E7%AB%A0.png)
 
 写文章
-![](./src/assets/img/%E5%86%99%E6%96%87%E7%AB%A0.png)
+![image](./src/assets/img/%E5%86%99%E6%96%87%E7%AB%A0.png)
